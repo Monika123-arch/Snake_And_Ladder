@@ -4,6 +4,7 @@ public class SnakeAndLadder {
 	public static void main(String[] args)
 	{
 		int player1Position = 0;
+
 		int maxPosition = 0;
 		System.out.println("Player Initial position is =" +player1Position);
 		System.out.println("Please Start The Game");
@@ -28,11 +29,12 @@ public class SnakeAndLadder {
 				default:
 					System.out.println("No Play");
 					player1Position = player1Position;
+
 			maxPosition = player1Position;
 			}
 			System.out.println("player Position is =" +player1Position);
-		}
-		
-		
-	}
+	  	}
+				
+  	}
+
 }
