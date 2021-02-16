@@ -4,6 +4,7 @@ public class SnakeAndLadder {
 	public static void main(String[] args)
 	{
 		int player1Position = 0;
+
 		System.out.println("Player Initial position is =" +player1Position);
 		System.out.println("Please Start The Game");
 		//Roll The Die To Get A Number From 1 To 6
@@ -28,6 +29,6 @@ public class SnakeAndLadder {
 		}
 		System.out.println("player Position is =" +player1Position);
 		
-		
+	
 	}
 }
