@@ -73,6 +73,6 @@ public class SnakeAndLadder {
 		else
 			System.out.println("Player-2 Won The Game");
 		
-		
 	}
+	
 }
